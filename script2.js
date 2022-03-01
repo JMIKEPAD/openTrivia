@@ -1,4 +1,3 @@
-
 const triviaArray = []; 
 const button = document.getElementById('button')
 const amountText = document.getElementById('amount')
